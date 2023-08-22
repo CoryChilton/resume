@@ -58,12 +58,12 @@
 
 \newcommand{\dash}[1]
   {
-    \hspace{4pt} - #1 \\\vspace{3pt}
+    \hspace{4pt} - #1 \\\vspace{4pt}
   }
 
 \newcommand{\sdash}[2]
   {
-    \hspace{4pt} - \makebox[1in][l]{#1} #2  \\\vspace{3pt}
+    \hspace{4pt} - \makebox[1in][l]{#1} #2  \\\vspace{4pt}
   }
 
 \newcommand{\datedevent}[2]
