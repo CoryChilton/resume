@@ -96,7 +96,7 @@
 \newcommand{\bulletpointproj}[1]
 {
     \begin{itemize}[nolistsep]
-        \item #1 \vspace{4pt}
+        \item #1 \vspace{3pt}
     \end{itemize}
 }
 
