@@ -1,4 +1,4 @@
 # Resume
 
-Resume written with LaTeX
+Resume written with LaTeX using Overleaf.
 
